@@ -1,0 +1,59 @@
+{
+  "siteId": "home-first-aid-guide",
+  "generatedAt": "2026-06-04T11:36:38.354418",
+  "categories": [
+    "beginner-home-first-aid-guide",
+    "advanced-home-first-aid-guide",
+    "tips-home-first-aid-guide",
+    "history-home-first-aid-guide",
+    "trending-home-first-aid-guide",
+    "tutorials-home-first-aid-guide"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-home-first-aid-guide",
+      "category_name": "Beginner Home First Aid Guide"
+    },
+    {
+      "category_slug": "advanced-home-first-aid-guide",
+      "category_name": "Advanced Home First Aid Guide"
+    },
+    {
+      "category_slug": "tips-home-first-aid-guide",
+      "category_name": "Home First Aid Guide Tips"
+    },
+    {
+      "category_slug": "history-home-first-aid-guide",
+      "category_name": "Home First Aid Guide History"
+    },
+    {
+      "category_slug": "trending-home-first-aid-guide",
+      "category_name": "Trending Home First Aid Guide"
+    },
+    {
+      "category_slug": "tutorials-home-first-aid-guide",
+      "category_name": "Home First Aid Guide Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "home-first-aid-guide",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "topbar",
+    "site_title": "Home First Aid Guide Central",
+    "articles_per_row": 3
+  }
+}
